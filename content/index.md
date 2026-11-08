@@ -40,3 +40,11 @@ You can use any text editor capable of opening and editing Markdown files.
 
 You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
 
+## Main Categories
+
+- [[planning/index|Planning]]
+- [[scheduling/index|Scheduling]]
+- [[budgeting/index|Budgeting]]
+- [[risk-management/index|Risk Management]]
+- [[communication/index|Communication]]
+- [[tools/index|Tools]]
